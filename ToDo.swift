@@ -11,6 +11,4 @@ import UIKit
 class ToDo {
     var name = ""
     var important = false
-    init(todoname : String){
-    }
 }
